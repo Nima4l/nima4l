@@ -1,13 +1,11 @@
 ### Hi there 👋 nima
 
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/XO8RMtRaK73isIt0i2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ProBItExchange-dog-hello-hi-XO8RMtRaK73isIt0i2">via GIPHY</a></p>
+![](/Gif.gif)
 
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 ## My Stats
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nima4l&bg_color=20,393E46,222831&title_color=FF2E63&text_color=08D9D6)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nima4l&bg_color=191A19&title_color=4E9F3D&text_color=D8E9A8)
 <!--
 **Nima4l/nima4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
